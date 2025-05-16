@@ -1,6 +1,6 @@
-# (name) – Marketplace de Freelancers para Projetos Tech
+# Geniws – Marketplace de Freelancers para Projetos Tech
 
-**(name)** é uma plataforma em desenvolvimento que visa conectar freelancers de tecnologia a clientes com demandas por projetos tech. Idealizada por estudantes de Análise e Desenvolvimento de Sistemas (ADS), o projeto é construído colaborativamente como uma iniciativa prática para aplicar conhecimentos técnicos e criar um portfólio real.
+**Geniws** é uma plataforma em desenvolvimento que visa conectar freelancers de tecnologia a clientes com demandas por projetos tech. Idealizada por estudantes de Análise e Desenvolvimento de Sistemas (ADS), o projeto é construído colaborativamente como uma iniciativa prática para aplicar conhecimentos técnicos e criar um portfólio real.
 
 ### Sobre:
 

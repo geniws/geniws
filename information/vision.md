@@ -1,19 +1,19 @@
-# Ideia de Projeto: (name)
+# Ideia de Projeto: Geniws
 
 ## 1. Título do Projeto
 
-**(name): A Plataforma Aberta para Conexões de Talentos Tech.**
+**Geniws: A Plataforma Aberta para Conexões de Talentos Tech.**
 
 ## 2. Conceito Central
 
-Desenvolver "(name)", uma plataforma web de código aberto (ou mantida por uma fundação/comunidade) dedicada a conectar freelancers da área de tecnologia (desenvolvedores, engenheiros, designers UI/UX, analistas de dados, etc.) com empresas, startups e indivíduos que buscam expertise técnica.
+Desenvolver "Geniws", uma plataforma web de código aberto (ou mantida por uma fundação/comunidade) dedicada a conectar freelancers da área de tecnologia (desenvolvedores, engenheiros, designers UI/UX, analistas de dados, etc.) com empresas, startups e indivíduos que buscam expertise técnica.
 
 ## 3. Problema a Ser Resolvido
 
 - **Para Contratantes:** Dificuldade em encontrar rapidamente profissionais de tecnologia qualificados para projetos específicos, com o nicho e stack tecnológica corretos, sem custos adicionais de plataforma.
 - **Para Freelancers Tech:** Encontrar projetos desafiadores que correspondam às suas especialidades, garantir um canal seguro de prospecção e contato, sem taxas ou comissões sobre seus ganhos.
 
-## 4. Solução Proposta: A Plataforma (name)
+## 4. Solução Proposta: A Plataforma Geniws
 
 ### 4.1. Para Freelancers de Tecnologia
 
@@ -51,11 +51,11 @@ Desenvolver "(name)", uma plataforma web de código aberto (ou mantida por uma f
 
 ### Conclusão
 
-A/O (name), visa democratizar o acesso a oportunidades e talentos no setor tech brasileiro. A proposta depende do apoio comunitário e criativo para garantir sua sustentabilidade e relevância, tornando-se uma infraestrutura pública digital para o futuro do trabalho em tecnologia.
+A Geniws, visa democratizar o acesso a oportunidades e talentos no setor tech brasileiro. A proposta depende do apoio comunitário e criativo para garantir sua sustentabilidade e relevância, tornando-se uma infraestrutura pública digital para o futuro do trabalho em tecnologia.
 
 ## Ideias Futuras
 
-A seguir, estão algumas funcionalidades e direções estratégicas que podem ser exploradas para evolução da plataforma (name), conforme a comunidade cresce e a sustentabilidade se consolida:
+A seguir, estão algumas funcionalidades e direções estratégicas que podem ser exploradas para evolução da plataforma Geniws, conforme a comunidade cresce e a sustentabilidade se consolida:
 
 - **Sistema de Reputação Descentralizado:**
 
@@ -72,4 +72,4 @@ A seguir, estão algumas funcionalidades e direções estratégicas que podem se
 - **Sistema de Financiamento Comunitário:**
   - Estudar modelos de financiamento recorrente via crowdfunding, GitHub Sponsors, OpenCollective ou Patreon para garantir a sustentabilidade sem comprometer a gratuidade.
 
-Essas ideias visam garantir a escalabilidade da/o (name) enquanto mantêm os princípios de abertura, equidade e colaboração comunitária.
+Essas ideias visam garantir a escalabilidade da/o Geniws enquanto mantêm os princípios de abertura, equidade e colaboração comunitária.
