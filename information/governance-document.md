@@ -18,3 +18,9 @@ A equipe definiu as seguintes plataformas como canais oficiais de comunicação 
 
 - **WhatsApp**  
   Reservado para avisos rápidos, comunicações urgentes e agendamentos de reuniões, visando agilidade em situações pontuais.
+
+## Escolha do Nome do Projeto:
+### *Geniws* 🧠
+
+A escolha do nome *Geniws* veio da ideia de juntar duas coisas que têm tudo a ver com o que a gente quer construir: genialidade e sabedoria. A grafia diferente foi proposital — é única, chama atenção e dá uma cara mais moderna pro projeto. Mais do que um nome bonito, *Geniws* representa essa mistura de criatividade com conhecimento aplicado, algo que a gente valoriza muito por aqui. No fim, o nome carrega bem o espírito da equipe: fazer coisas inteligentes, com identidade, e que realmente façam sentido.
+
