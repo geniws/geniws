@@ -22,7 +22,7 @@ Cada aluno deverá realizar uma contribuição individual no repositório do pro
 
 ### 1. Clonar o Repositório
 
-Antes de tudo, baixe o projeto para sua máquina local
+Antes de tudo, baixe o projeto para sua máquina local.
 
 ### 2. Criar uma Nova Branch Pessoal
 
@@ -37,8 +37,7 @@ Dentro da sua branch, acesse a pasta contributors/ e crie um novo arquivo no for
 No arquivo criado, insira as seguintes informações:
 
 - Nome completo
-- E-mail
-- Número de telefone cadastrado no grupo de alunos do WhatsApp
+- Link do GitHub (ex: `https://github.com/joao-calos12`)
 
 Esses dados serão utilizados para controle interno e também para validar sua participação em futuras atividades e sorteios.
 
