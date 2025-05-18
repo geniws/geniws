@@ -1,9 +1,5 @@
 ## Nome:
-William Mendes dos Santos
+William Mendes dos Santos Filho
 
-## E-mail:
-willsozin2025@outlook.com
-
-## Número de telefone: 
-(79) 9 9936-5157
-
+## Link do GitHub:
+https://github.com/will-aam
