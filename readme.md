@@ -19,11 +19,10 @@ Esse projeto é mais do que uma atividade prática — é uma oportunidade de ap
 
 ## Stack Tecnológica
 
-- **Front-end**: React.js, Tailwind CSS
-- **Back-end**: Node.js
-- **Banco de Dados**: PostgreSQL
-- **Outros**: API REST, GitHub Actions
-
+- **Front-end**: Html, Css, Js e Tailwind CSS
+- **Back-end**: Node.js, Express, Js
+- **Banco de Dados**: MySQL
+- **Outros**: Chart.js (JS), bcrypt (Node.js), dotenv (Node.js) e Axios ou Fetch (JS)
 ## Requisitos do Projeto
 
 Os requisitos detalhados, incluindo histórias de usuário e critérios de aceitação, estão em [`docs/requirements.md`](docs/requirements.md)
